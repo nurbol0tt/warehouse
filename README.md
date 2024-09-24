@@ -18,7 +18,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone -b master https://github.com/nurbol0tt/warehouse.git
+    git clone -b main https://github.com/nurbol0tt/warehouse.git
     ```
 
 2. Перейдите в директорию проекта:
